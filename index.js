@@ -22,5 +22,7 @@ export default class Singleton<T>
 		}
 		return this.instance;
 	}
+
+	isInitialized(): boolean {return this.initialized;}
 }
 	
