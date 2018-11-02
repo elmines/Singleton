@@ -1,0 +1,29 @@
+{
+  "name": "flow-singleton",
+  "version": "0.0.1",
+  "description": "Simple Flow class for simplifying the Singleton design pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmines/flow-singleton.git"
+  },
+  "keywords": [
+    "flow",
+    "singleton",
+    "design-patterns",
+    "generics"
+  ],
+  "author": "Ethan L. Mines",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elmines/flow-singleton/issues"
+  },
+  "homepage": "https://github.com/elmines/flow-singleton#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "flow-bin": "^0.85.0"
+  }
+}
